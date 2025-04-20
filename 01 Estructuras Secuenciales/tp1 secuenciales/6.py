@@ -1,0 +1,22 @@
+numero= int(input("Ingrese un numero: "))
+uno= numero *1
+dos= numero *2
+tres= numero*3
+cuatro= numero *4
+cinco= numero *5
+seis= numero *6
+siete= numero *7
+ocho= numero *8
+nueve= numero *9
+diez= numero *10
+print(f"La tabla de multiplicar del {numero} es la siguiente:")
+print (f" {numero} x 1= {uno}")
+print (f" {numero} x 2= {dos}")
+print (f" {numero} x 3= {tres}")
+print (f" {numero} x 4= {cuatro}")
+print (f" {numero} x 5= {cinco}")
+print (f" {numero} x 6= {seis}")
+print (f" {numero} x 7= {siete}")
+print (f" {numero} x 8= {ocho}")
+print (f" {numero} x 9= {nueve}")
+print (f" {numero} x 10= {diez}")
